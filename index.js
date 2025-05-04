@@ -39,13 +39,13 @@ document.addEventListener("DOMContentLoaded", function () {
 
   document.getElementById("resume-button-1").onclick = () => {
     window.open(
-      "https://drive.google.com/file/d/1UwAz4U_75g-5QPjfYvDX4vsUI8954LYD/view?usp=sharing"
+      "https://drive.google.com/file/d/1qnTv2m6Npjw7ZJ-HsW2r_tjvyAUavSjE/view?usp=drivesdk"
     );
   };
 
   document.getElementById("resume-button-2").onclick = () => {
     window.open(
-      "https://drive.google.com/file/d/1UwAz4U_75g-5QPjfYvDX4vsUI8954LYD/view?usp=sharing"
+      "https://drive.google.com/file/d/1qnTv2m6Npjw7ZJ-HsW2r_tjvyAUavSjE/view?usp=drivesdk"
     );
   };
 
